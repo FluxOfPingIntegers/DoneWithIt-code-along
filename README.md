@@ -3,32 +3,32 @@ This project is a reflection of [this](https://www.youtube.com/watch?v=0-S5a0eXP
 
 ## Progress
 List Of Chapters
-[x] environment setup
-[x] create react native app
-[x] run android emulator
-[ ] run on a physical device
-[x] Logging
-[ ] Debugging with chrome
-[ ] Debugging with VS Code
-[ ] Publishing
-[ ] Fundemental Concepts
-[ ] Views
-[ ] Text
-[ ] Image
-[ ] Touchables
-[ ] Button
-[ ] Alert
-[ ] Stylesheet
-[ ] Platform specific code
-[ ] Layouts
-[ ] Dimensions
-[ ] Detecting Orientation Changes
-[ ] Flexbox
-[ ] flex direction
-[ ] justifycontent, alignitems, and alignself
-[ ] flexwrap and aligncontent
-[ ] flexbasis, flexgrow, and flexsink
-[ ] Absolute and relative positioning
-[ ] Welcome Screen
-[ ] View Image Screen
-[ ] Refactoring
+- [x] environment setup
+- [x] create react native app
+- [x] run android emulator
+- [ ] run on a physical device
+- [x] Logging
+- [ ] Debugging with chrome
+- [ ] Debugging with VS Code
+- [ ] Publishing
+- [ ] Fundemental Concepts
+- [ ] Views
+- [ ] Text
+- [ ] Image
+- [ ] Touchables
+- [ ] Button
+- [ ] Alert
+- [ ] Stylesheet
+- [ ] Platform specific code
+- [ ] Layouts
+- [ ] Dimensions
+- [ ] Detecting Orientation Changes
+- [ ] Flexbox
+- [ ] flex direction
+- [ ] justifycontent, alignitems, and alignself
+- [ ] flexwrap and aligncontent
+- [ ] flexbasis, flexgrow, and flexsink
+- [ ] Absolute and relative positioning
+- [ ] Welcome Screen
+- [ ] View Image Screen
+- [ ] Refactoring
