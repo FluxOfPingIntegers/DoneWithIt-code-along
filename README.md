@@ -7,7 +7,7 @@ List Of Chapters
 [x] create react native app
 [x] run android emulator
 [ ] run on a physical device
-[ ] Logging
+[x] Logging
 [ ] Debugging with chrome
 [ ] Debugging with VS Code
 [ ] Publishing
