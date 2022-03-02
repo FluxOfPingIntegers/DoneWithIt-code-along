@@ -5,7 +5,7 @@ This project is a reflection of [this](https://www.youtube.com/watch?v=0-S5a0eXP
 List Of Chapters
 [x] environment setup
 [x] create react native app
-[ ] run android emulator
+[x] run android emulator
 [ ] run on a physical device
 [ ] Logging
 [ ] Debugging with chrome
