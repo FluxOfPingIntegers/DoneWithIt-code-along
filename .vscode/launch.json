@@ -15,7 +15,10 @@
             "name": "Attach to packager",
             "cwd": "${workspaceFolder}",
             "type": "reactnative",
-            "request": "attach"
+            "request": "attach",
+            "port": 19001,
+            "sourceMaps": true,
+            "outDir": "${workspaceRoot}/.vscode/.react"
         }
     ]
 }

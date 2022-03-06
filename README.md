@@ -8,9 +8,9 @@ List Of Chapters
 - [x] run android emulator
 - [ ] run on a physical device
 - [x] Logging
-- [ ] Debugging with chrome
-- [ ] Debugging with VS Code
-- [ ] Publishing
+- [x] Debugging with chrome
+- [x] Debugging with VS Code
+- [x] Publishing
 - [ ] Fundemental Concepts
 - [ ] Views
 - [ ] Text
