@@ -11,18 +11,18 @@ List Of Chapters
 - [x] Debugging with chrome
 - [x] Debugging with VS Code
 - [x] Publishing
-- [ ] Fundemental Concepts
-- [ ] Views
-- [ ] Text
-- [ ] Image
-- [ ] Touchables
-- [ ] Button
-- [ ] Alert
-- [ ] Stylesheet
-- [ ] Platform specific code
-- [ ] Layouts
-- [ ] Dimensions
-- [ ] Detecting Orientation Changes
+- [x] Fundemental Concepts
+- [x] Views
+- [x] Text
+- [x] Image
+- [x] Touchables
+- [x] Button
+- [x] Alert
+- [x] Stylesheet
+- [x] Platform specific code
+- [x] Layouts
+- [x] Dimensions
+- [x] Detecting Orientation Changes
 - [ ] Flexbox
 - [ ] flex direction
 - [ ] justifycontent, alignitems, and alignself
