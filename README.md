@@ -23,12 +23,12 @@ List Of Chapters
 - [x] Layouts
 - [x] Dimensions
 - [x] Detecting Orientation Changes
-- [ ] Flexbox
-- [ ] flex direction
-- [ ] justifycontent, alignitems, and alignself
-- [ ] flexwrap and aligncontent
-- [ ] flexbasis, flexgrow, and flexsink
-- [ ] Absolute and relative positioning
+- [x] Flexbox
+- [x] flex direction
+- [x] justifycontent, alignitems, and alignself
+- [x] flexwrap and aligncontent
+- [x] flexbasis, flexgrow, and flexsink
+- [x] Absolute and relative positioning
 - [ ] Welcome Screen
 - [ ] View Image Screen
 - [ ] Refactoring
