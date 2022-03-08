@@ -29,6 +29,6 @@ List Of Chapters
 - [x] flexwrap and aligncontent
 - [x] flexbasis, flexgrow, and flexsink
 - [x] Absolute and relative positioning
-- [ ] Welcome Screen
-- [ ] View Image Screen
+- [x] Welcome Screen
+- [x] View Image Screen
 - [ ] Refactoring
