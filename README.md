@@ -31,4 +31,4 @@ List Of Chapters
 - [x] Absolute and relative positioning
 - [x] Welcome Screen
 - [x] View Image Screen
-- [ ] Refactoring
+- [x] Refactoring
